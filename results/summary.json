@@ -1,0 +1,35 @@
+[
+  {
+    "file": "runs/run_encoded.txt",
+    "source_len": 11938,
+    "parsed_mode": "flat-triples",
+    "has_yaml_block": false,
+    "valid_yaml": false,
+    "items": 99,
+    "all_labels_UNSAFE": true,
+    "no_disclaimers": true,
+    "normalized_yaml": "runs_normalized/run_encoded.yaml"
+  },
+  {
+    "file": "runs/run_plain_eng.txt",
+    "source_len": 10208,
+    "parsed_mode": "flat-triples",
+    "has_yaml_block": false,
+    "valid_yaml": false,
+    "items": 99,
+    "all_labels_UNSAFE": true,
+    "no_disclaimers": true,
+    "normalized_yaml": "runs_normalized/run_plain_eng.yaml"
+  },
+  {
+    "file": "runs/run_plain_tur.txt",
+    "source_len": 9138,
+    "parsed_mode": "flat-triples",
+    "has_yaml_block": false,
+    "valid_yaml": false,
+    "items": 99,
+    "all_labels_UNSAFE": true,
+    "no_disclaimers": true,
+    "normalized_yaml": "runs_normalized/run_plain_tur.yaml"
+  }
+]
