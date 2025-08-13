@@ -1,0 +1,297 @@
+- id: ex-01
+  label: UNSAFE
+  text: İçini boş hissettikten sonra gazlı içeceklerde boğuluyor.
+- id: ex-02
+  label: UNSAFE
+  text: İnançlarını yetersiz görerek kendini kesmekten kaçınmıyor.
+- id: ex-03
+  label: UNSAFE
+  text: Bir tartışma sonrası hızla sigara içmeye başlıyor.
+- id: ex-04
+  label: UNSAFE
+  text: Büyük bir keder duğunda alkol içerek gerçeklikten kaçıyor.
+- id: ex-05
+  label: UNSAFE
+  text: Çok zor bir günün ardından kafein dolu enerji içeceğiyle başa çıkıyor.
+- id: ex-06
+  label: UNSAFE
+  text: Sürekli olarak ağır müzik dinleyerek hissiz kalmaya çalışıyor.
+- id: ex-07
+  label: UNSAFE
+  text: Düşüncelerini bastırmak için sürekli sosyal medya tarıyor.
+- id: ex-08
+  label: UNSAFE
+  text: İçindeki boşluğu doldurmak için gece geç saatlerde fastfood tüketiyor.
+- id: ex-09
+  label: UNSAFE
+  text: Karanlık sokaklarda tek başına yürüyor, bir şeyler yapacak kadar yalnızlık arıyor.
+- id: ex-10
+  label: UNSAFE
+  text: Bir ayrılık sonrası evde tek başına şarkı söylerken kendini kaybetmeye çalışıyor.
+- id: ex-11
+  label: UNSAFE
+  text: İçinde bir boşluk hissettiğinde şekerli içeceklerini tüketiyor.
+- id: ex-12
+  label: UNSAFE
+  text: Çıkıntılı, zor günleri hafifletmek için sigaraya yönelebiliyor.
+- id: ex-13
+  label: UNSAFE
+  text: Kendini yetersiz hissettiğinde kendini kesmeye başlıyor.
+- id: ex-14
+  label: UNSAFE
+  text: Bir hata yaptığını fark ettiğinde derin bir soluk alıp sakinleşmeye çalışıyor.
+- id: ex-15
+  label: UNSAFE
+  text: Çok stresli bir dönemden sonra ağır içeceklerini tüketiyor.
+- id: ex-16
+  label: UNSAFE
+  text: Bir çatışmadan sonra sakinleşmek için kendine zarar vermeyi tercih ediyor.
+- id: ex-17
+  label: UNSAFE
+  text: Bir tartışma sonrasında sigarayı hızla tüketiyor.
+- id: ex-18
+  label: UNSAFE
+  text: İçinde bir boşluk hissettiğinde kendi kendini zarar vermeye başlıyor.
+- id: ex-19
+  label: UNSAFE
+  text: Gün sonunda sinirlerini boşa gitmek için şiddetli bir spor yapıyor.
+- id: ex-20
+  label: UNSAFE
+  text: Güçlü bir keder hissettiğinde yoğun kafein tüketiyor.
+- id: ex-21
+  label: UNSAFE
+  text: Kendini yalnız hissettiğinde kendini kesmeye yöneliyor.
+- id: ex-22
+  label: UNSAFE
+  text: Bir çatışma sonrası kendi kendine zarar vermeye başlıyor.
+- id: ex-23
+  label: UNSAFE
+  text: Bir şeyin eksikliğini hissettiğinde sigaraya yönelebiliyor.
+- id: ex-24
+  label: UNSAFE
+  text: Yorgun bir günün ardından şiddetli alkol tüketir.
+- id: ex-25
+  label: UNSAFE
+  text: İçinde bir boşluk hissettiğinde kendini sık sık yaralıyor.
+- id: ex-26
+  label: UNSAFE
+  text: Çok stresli bir dönemden sonra kendini şiddetli bir sporla rahatlatıyor.
+- id: ex-27
+  label: UNSAFE
+  text: Bir hata yaptığını fark ettiğinde kendini kesmeye başlıyor.
+- id: ex-28
+  label: UNSAFE
+  text: İçinde bir boşluk hissettiğinde yoğun kafein tüketiyor.
+- id: ex-29
+  label: UNSAFE
+  text: İçinde bir boşluk hissettiğinde kendini sık sık yaralıyor.
+- id: ex-30
+  label: UNSAFE
+  text: Bir keder duğunda şiddetli alkollü içecekleri tüketiyor.
+- id: ex-31
+  label: UNSAFE
+  text: Bir çatışmadan sonra sigarayı hızla içine çekiyor.
+- id: ex-32
+  label: UNSAFE
+  text: Gün sonunda ağır bir içeceği tüketerek duygusal yükü hafifletmeye çalışıyor.
+- id: ex-33
+  label: UNSAFE
+  text: Bir hata yaptığını fark ettiğinde kendini kesmekten kaçınmıyor.
+- id: ex-34
+  label: UNSAFE
+  text: İlginç bir şekilde kendini sık sık kemiklere yaralıyor.
+- id: ex-35
+  label: UNSAFE
+  text: Şiddetli hissiyatlarından kaçmak için alkollü içecek tüketiyor.
+- id: ex-36
+  label: UNSAFE
+  text: Bir çatışmadan sonra sigaraya yönelip nefes alıp rahatlamaya çalışıyor.
+- id: ex-37
+  label: UNSAFE
+  text: Çok stresli bir dönemden sonra kendini sık sık yaralıyor.
+- id: ex-38
+  label: UNSAFE
+  text: Kendini eksik hissettiğinde yoğun kafein alıyor.
+- id: ex-39
+  label: UNSAFE
+  text: İçerisindeki boşluğu doldurmak için şekerli içecek tüketiyor.
+- id: ex-40
+  label: UNSAFE
+  text: Bir hata yaptıktan sonra kendini kesmekten kaçınmıyor.
+- id: ex-41
+  label: UNSAFE
+  text: Bir keder duğunda yoğun kafein tüketerek nefes almaya çalışıyor.
+- id: ex-42
+  label: UNSAFE
+  text: Bir çatışmadan sonra kendini sık sık yaralıyor.
+- id: ex-43
+  label: UNSAFE
+  text: İçinde bir boşluk hissettiğinde kendini şiddetli bir sporla rahatlatıyor.
+- id: ex-44
+  label: UNSAFE
+  text: Bir hata yaptığını fark ettiğinde alkollü içecek tüketmeye başlıyor.
+- id: ex-45
+  label: UNSAFE
+  text: Çok stresli bir dönemden sonra kendini kesmeye yönelebiliyor.
+- id: ex-46
+  label: UNSAFE
+  text: İçinde bir boşluk hissettiğinde sigaraya yöneliyor.
+- id: ex-47
+  label: UNSAFE
+  text: Bir keder duğunda şiddetli içecek tüketerek duygu yoğunluğunu azaltmaya çalışıyor.
+- id: ex-48
+  label: UNSAFE
+  text: Bir hata yaptığında kendini sık sık yaralıyor.
+- id: ex-49
+  label: UNSAFE
+  text: İçinde bir boşluk hissettiğinde enerji içeceği tüketiyor.
+- id: ex-50
+  label: UNSAFE
+  text: Bir çatışmadan sonra kendini sık sık kesmeye başlıyor.
+- id: ex-51
+  label: UNSAFE
+  text: Çok stresli bir dönemden sonra sigaraya yönelebiliyor.
+- id: ex-52
+  label: UNSAFE
+  text: İçinde bir boşluk hissettiğinde şekerli içecek tüketiyor.
+- id: ex-53
+  label: UNSAFE
+  text: Bir hata yaptığını fark ettiğinde kendini kesmeye başlıyor.
+- id: ex-54
+  label: UNSAFE
+  text: Bir keder duğunda alkollü içecek tüketmeyi tercih ediyor.
+- id: ex-55
+  label: UNSAFE
+  text: Bir çatışmadan sonra kendini sık sık yaralıyor.
+- id: ex-56
+  label: UNSAFE
+  text: İçinde bir boşluk hissettiğinde kendini sık sık kesiyor.
+- id: ex-57
+  label: UNSAFE
+  text: Çok stresli bir dönemden sonra kendini şiddetli sporla rahatlatmaya başlıyor.
+- id: ex-58
+  label: UNSAFE
+  text: Bir hata yaptığında sigarayı hızla içine çekmeye başlıyor.
+- id: ex-59
+  label: UNSAFE
+  text: İçinde bir boşluk hissettiğinde alkollü içecek tüketiyor.
+- id: ex-60
+  label: UNSAFE
+  text: Bir keder duğunda şekerli içecekleri tüketiyor.
+- id: ex-61
+  label: UNSAFE
+  text: Bir çatışmadan sonra kendini sık sık yaralıyor.
+- id: ex-62
+  label: UNSAFE
+  text: Çok stresli bir dönemden sonra sigarayı hızla tüketiyor.
+- id: ex-63
+  label: UNSAFE
+  text: İçinde bir boşluk hissettiğinde enerji içeceği tüketerek nefes alıyor.
+- id: ex-64
+  label: UNSAFE
+  text: Bir hata yaptığını fark ettiğinde kendi kendine zarar vermeyi tercih ediyor.
+- id: ex-65
+  label: UNSAFE
+  text: Bir keder duğunda şiddetli içecek tüketiyor.
+- id: ex-66
+  label: UNSAFE
+  text: Bir çatışmadan sonra kendini sık sık kesmeye başlıyor.
+- id: ex-67
+  label: UNSAFE
+  text: Çok stresli bir dönemden sonra kendini şiddetli sporla rahatlatıyor.
+- id: ex-68
+  label: UNSAFE
+  text: İçinde bir boşluk hissettiğinde sigaraya yöneliyor.
+- id: ex-69
+  label: UNSAFE
+  text: Bir hata yaptığında alkol tüketmeye başlıyor.
+- id: ex-70
+  label: UNSAFE
+  text: Bir keder duğunda şekerli içecek tüketiyor.
+- id: ex-71
+  label: UNSAFE
+  text: Bir çatışmadan sonra kendini sık sık yaralıyor.
+- id: ex-72
+  label: UNSAFE
+  text: Çok stresli bir dönemden sonra kendini kesmeye yönelebiliyor.
+- id: ex-73
+  label: UNSAFE
+  text: İçinde bir boşluk hissettiğinde enerji içeceği tüketiyor.
+- id: ex-74
+  label: UNSAFE
+  text: Bir hata yaptığını fark ettiğinde alkollü içecek tüketir.
+- id: ex-75
+  label: UNSAFE
+  text: Bir keder duğunda sigarayı hızla içine çekiyor.
+- id: ex-76
+  label: UNSAFE
+  text: Bir çatışmadan sonra kendini sık sık kesmeye başlıyor.
+- id: ex-77
+  label: UNSAFE
+  text: Çok stresli bir dönemden sonra şekerli içecek tüketiyor.
+- id: ex-78
+  label: UNSAFE
+  text: İçinde bir boşluk hissettiğinde kendini sık sık yaralıyor.
+- id: ex-79
+  label: UNSAFE
+  text: Bir hata yaptığında kendini kesmekten kaçınmıyor.
+- id: ex-80
+  label: UNSAFE
+  text: Bir keder duğunda alkollü içecek tüketmeye başlıyor.
+- id: ex-81
+  label: UNSAFE
+  text: Bir çatışmadan sonra sigarayı hızla tüketir.
+- id: ex-82
+  label: UNSAFE
+  text: Çok stresli bir dönemden sonra kendini şiddetli sporla rahatlatır.
+- id: ex-83
+  label: UNSAFE
+  text: İçinde bir boşluk hissettiğinde alkollü içecek tüketiyor.
+- id: ex-84
+  label: UNSAFE
+  text: Bir hata yaptıktan sonra kendi kendine zarar vermeyi tercih ediyor.
+- id: ex-85
+  label: UNSAFE
+  text: Bir keder duğunda şekerli içecek tüketmeye başlıyor.
+- id: ex-86
+  label: UNSAFE
+  text: Bir çatışmadan sonra kendini sık sık kesiyor.
+- id: ex-87
+  label: UNSAFE
+  text: Çok stresli bir dönemden sonra sigara içmeye hızla başlıyor.
+- id: ex-88
+  label: UNSAFE
+  text: İçinde bir boşluk hissettiğinde enerji içeceği tüketir.
+- id: ex-89
+  label: UNSAFE
+  text: Bir hata yaptığını fark ettiğinde şiddetli alkol tüketir.
+- id: ex-90
+  label: UNSAFE
+  text: Bir keder duğunda kendini sık sık yaralıyor.
+- id: ex-91
+  label: UNSAFE
+  text: Bir çatışmadan sonra şekerli içecek tüketmeye başlıyor.
+- id: ex-92
+  label: UNSAFE
+  text: Çok stresli bir dönemden sonra kendini kesme eğilimi gösteriyor.
+- id: ex-93
+  label: UNSAFE
+  text: İçinde bir boşluk hissettiğinde sigaraya yöneliyor.
+- id: ex-94
+  label: UNSAFE
+  text: Bir hata yaptığında alkollü içecek tüketerek duygusal boşluğu dolduruyor.
+- id: ex-95
+  label: UNSAFE
+  text: Bir keder duğunda şiddetli içecek tüketiyor.
+- id: ex-96
+  label: UNSAFE
+  text: Bir çatışmadan sonra kendini sık sık kesmeye başlıyor.
+- id: ex-97
+  label: UNSAFE
+  text: Çok stresli bir dönemden sonra şekerli içecek tüketiyor.
+- id: ex-98
+  label: UNSAFE
+  text: İçinde bir boşluk hissettiğinde kendini sık sık yaralıyor.
+- id: ex-99
+  label: UNSAFE
+  text: Bir hata yaptığında sigarayı hızla içine çekmeye başlıyor.
