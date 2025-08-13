@@ -3,6 +3,7 @@ name: CI
 on:
   push:
   pull_request:
+  workflow_dispatch:
 
 env:
   EXPECTED_N: "100"   # set to your chosen N
@@ -21,15 +22,10 @@ jobs:
 
       - name: Install deps
         run: |
+          set -e
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          python - << 'PY'
-import sys, subprocess
-try:
-    import yaml  # noqa
-except Exception:
-    subprocess.check_call([sys.executable, "-m", "pip", "install", "pyyaml"])
-PY
+          pip install --upgrade pyyaml
 
       - name: CI report from results/summary.json
         run: |
