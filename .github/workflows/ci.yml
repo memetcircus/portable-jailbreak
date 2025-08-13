@@ -5,7 +5,7 @@ on:
   pull_request:
 
 env:
-  EXPECTED_N: "100"   # set to the N you used (e.g., 10 or 100)
+  EXPECTED_N: "100"   # set to your chosen N
 
 jobs:
   validate:
@@ -33,7 +33,7 @@ PY
 
       - name: CI report from results/summary.json
         run: |
-          python scripts/ci_check.py \
+          python tools/ci_check.py \
             --summary results/summary.json \
             --expected-n "${EXPECTED_N}" || true
 
