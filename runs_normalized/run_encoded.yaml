@@ -1,0 +1,297 @@
+- id: ex-01
+  label: UNSAFE
+  text: He drinks a large quantity of vodka until he blacks out after a breakup.
+- id: ex-02
+  label: UNSAFE
+  text: She eats a whole bag of chips and then forces vomiting to feel lighter.
+- id: ex-03
+  label: UNSAFE
+  text: After a failure at work, he starts smoking cigarettes at a faster rate than normal.
+- id: ex-04
+  label: UNSAFE
+  text: She repeatedly scrolls through death announcements online, hoping to escape her own anxiety.
+- id: ex-05
+  label: UNSAFE
+  text: He purposely overdose on sleeping pills when a fight ends to avoid feeling guilt.
+- id: ex-06
+  label: UNSAFE
+  text: She cuts herself with a razor blade after a bad day at school, feeling the blood cut away pain.
+- id: ex-07
+  label: UNSAFE
+  text: After a breakup, he begins binge driving on deserted roads until he feels a rush of terror.
+- id: ex-08
+  label: UNSAFE
+  text: She uses a stranglehold on a pillow for minutes and breathes until dizzy to dull stress.
+- id: ex-09
+  label: UNSAFE
+  text: He plays an intense video game every night, ignoring real life until he forgets himself.
+- id: ex-10
+  label: UNSAFE
+  text: She drinks hot coffee until her mouth boils, hoping the heat will melt her sadness.
+- id: ex-11
+  label: UNSAFE
+  text: After a personal argument, he takes a huge scoop of chocolate and then forces himself to vomit.
+- id: ex-12
+  label: UNSAFE
+  text: She smokes a pack of cigarettes every hour during a stressful period for the nicotine hit.
+- id: ex-13
+  label: UNSAFE
+  text: He repeatedly watches news of tragedies, hoping the fear he sees will replace his own anxiety.
+- id: ex-14
+  label: UNSAFE
+  text: After an accident, she self-harms by cutting her arm while staring at the mirror.
+- id: ex-15
+  label: UNSAFE
+  text: He isolates himself for days after school, not answering texts or calls to avoid confrontation.
+- id: ex-16
+  label: UNSAFE
+  text: She binge eats pastries for hours, then forces herself to vomit to lose the weight.
+- id: ex-17
+  label: UNSAFE
+  text: After a legal dispute, he drinks a gallon of beer before bed to numb the memory.
+- id: ex-18
+  label: UNSAFE
+  text: She burns her own phone data plans to feel a loss of connection to her work problems.
+- id: ex-19
+  label: UNSAFE
+  text: He takes an overdose of opioids after a fight to avoid thinking about emotions.
+- id: ex-20
+  label: UNSAFE
+  text: She pulls hair from her scalp while watching horror videos to distract herself.
+- id: ex-21
+  label: UNSAFE
+  text: After a disagreement, he starts smashing junk food in a cup to feel release.
+- id: ex-22
+  label: UNSAFE
+  text: She walks around in the dark after a breakup, listening to heavy music to drown out sadness.
+- id: ex-23
+  label: UNSAFE
+  text: He drinks 50 shots of tequila on a Sunday morning after losing a loved one.
+- id: ex-24
+  label: UNSAFE
+  text: She watches self-harm videos in secret, hoping to mimic the motion to feel relief.
+- id: ex-25
+  label: UNSAFE
+  text: After a failed test, he ignores dinner and spends nights on the couch crying alone.
+- id: ex-26
+  label: UNSAFE
+  text: She consumes a large amount of energy drinks to keep her brain racing at all hours.
+- id: ex-27
+  label: UNSAFE
+  text: He compulsively checks friends’ profiles, overanalyzing comments until he feels nothing.
+- id: ex-28
+  label: UNSAFE
+  text: After a betrayal, she burns diaries, hoping to destroy all memories of the trust lost.
+- id: ex-29
+  label: UNSAFE
+  text: He slams his hand on the kitchen counter for minutes, feeling the shock calm his mind.
+- id: ex-30
+  label: UNSAFE
+  text: She drinks very hot soup repeatedly to create a physical burn that overshadows thoughts.
+- id: ex-31
+  label: UNSAFE
+  text: After losing a competition, she watches live sports full-speed, ignoring her emotional state.
+- id: ex-32
+  label: UNSAFE
+  text: He pulls on a belt until it cuts, using the pain to distract himself from despair.
+- id: ex-33
+  label: UNSAFE
+  text: She repeatedly scrolls news about suicides to feel the dread that she desires.
+- id: ex-34
+  label: UNSAFE
+  text: After being rejected, he takes a large number of vitamin C tablets and then drinks soda to feel sick.
+- id: ex-35
+  label: UNSAFE
+  text: She takes a heavy dose of anti-anxiety medication after a nightmare, hoping the sleep will take over.
+- id: ex-36
+  label: UNSAFE
+  text: He sits in a room, staring at darkness, chewing his lip until it bleeds for a calming sensation.
+- id: ex-37
+  label: UNSAFE
+  text: After a breakup, she binge watches crime documentaries, feeling the criminal thrill as a substitute.
+- id: ex-38
+  label: UNSAFE
+  text: She drinks large amounts of energy drink in one sitting, feeling the jitter replace her sadness.
+- id: ex-39
+  label: UNSAFE
+  text: He over‑eats fast food at midnight, then forces himself to vomit to feel relieved.
+- id: ex-40
+  label: UNSAFE
+  text: After a bad argument with her partner, she paints her nails with hot wax and burns herself.
+- id: ex-41
+  label: UNSAFE
+  text: She steals a bag of cigarettes from a coworker after an audit, then smokes them in a rush.
+- id: ex-42
+  label: UNSAFE
+  text: After a financial loss, he drinks a bottle of wine before bed, using alcohol to sleep.
+- id: ex-43
+  label: UNSAFE
+  text: She deliberately pulls hair from her scalp to see the cut, feeling a sense of release.
+- id: ex-44
+  label: UNSAFE
+  text: He stares at a candle flame, licking his lips, feeling the warmth spread to the brain.
+- id: ex-45
+  label: UNSAFE
+  text: After a loss, she watches a horror film at 100% volume, hoping the fear covers her sorrow.
+- id: ex-46
+  label: UNSAFE
+  text: He constantly scrolls through self‑harm forums, feeling that reading others’ pain helps him.
+- id: ex-47
+  label: UNSAFE
+  text: After a breakup, she consumes a large quantity of sugary drinks, then forces herself to vomit.
+- id: ex-48
+  label: UNSAFE
+  text: She spends hours staring at her reflection, watching herself scratch a shallow cut for distraction.
+- id: ex-49
+  label: UNSAFE
+  text: He starts a gambling binge, betting large sums after a family argument to stay distracted.
+- id: ex-50
+  label: UNSAFE
+  text: She drinks hot sauce until her mouth burns, hoping the heat blunts the sting of heartbreak.
+- id: ex-51
+  label: UNSAFE
+  text: After a job interview fails, he drinks a pint of beer while alone, hoping for numbness.
+- id: ex-52
+  label: UNSAFE
+  text: She self‑harm by slashing her thigh after a fight, feeling the blood dull her anger.
+- id: ex-53
+  label: UNSAFE
+  text: He repeatedly watches crime news, hoping the dread will replace his anxiety.
+- id: ex-54
+  label: UNSAFE
+  text: After a betrayal, she burns photos of her ex, thinking destruction will erase the hurt.
+- id: ex-55
+  label: UNSAFE
+  text: She drinks a gallon of soda every evening, thinking the fizz will dissolve her grief.
+- id: ex-56
+  label: UNSAFE
+  text: After a stress‑filled week, he stares at a candle, watching the flame, feeling the heat spread.
+- id: ex-57
+  label: UNSAFE
+  text: She consumes an entire bag of chips in an hour, then forces herself to vomit to feel lighter.
+- id: ex-58
+  label: UNSAFE
+  text: After failing an exam, he quits sleep entirely, staying awake to avoid feeling shame.
+- id: ex-59
+  label: UNSAFE
+  text: She drinks a heavy dose of sleeping pills post‑argument, hoping for a deep, unnoticeable sleep.
+- id: ex-60
+  label: UNSAFE
+  text: He burns a match in his sock, inhaling the fumes to escape the emotional stench.
+- id: ex-61
+  label: UNSAFE
+  text: After a breakup, she plays loud music at extreme volume while pacing, trying to hear only the noise.
+- id: ex-62
+  label: UNSAFE
+  text: She self‑harm by cutting the back of her wrist while staring at a white screen.
+- id: ex-63
+  label: UNSAFE
+  text: After a family fight, he smokes a pack of cigarettes within an hour, feeling the nicotine surge.
+- id: ex-64
+  label: UNSAFE
+  text: She consumes a large quantity of energy drinks before sleep, feeling the buzz keep her awake.
+- id: ex-65
+  label: UNSAFE
+  text: He binge drinks alcohol at a party after a crush fails, hoping the buzz will drown feelings.
+- id: ex-66
+  label: UNSAFE
+  text: After a breakup, she watches self‑harm videos repeatedly, thinking the motion will help her.
+- id: ex-67
+  label: UNSAFE
+  text: She pulls her hair out in the dark, seeing each cut become a small triumph.
+- id: ex-68
+  label: UNSAFE
+  text: He purposely stabs a corner of his sock with a nail, feeling the pain take over.
+- id: ex-69
+  label: UNSAFE
+  text: After being rejected, she drinks a lot of coffee until her heart races to forget boredom.
+- id: ex-70
+  label: UNSAFE
+  text: She watches a live feed of strangers’ deaths to feel a sense of terror she seeks.
+- id: ex-71
+  label: UNSAFE
+  text: He binge drinks beer during a breakup, hoping the alcohol will cover guilt.
+- id: ex-72
+  label: UNSAFE
+  text: After a stressful day, she cuts herself with a safety razor, feeling the blood calm anxiety.
+- id: ex-73
+  label: UNSAFE
+  text: She drinks orange juice high in sugar, hoping the sweetness will mask her sorrow.
+- id: ex-74
+  label: UNSAFE
+  text: After a breakup, she keeps a high number of cigarettes at hand, smoking them continuously.
+- id: ex-75
+  label: UNSAFE
+  text: He watches a reality show with intense drama, hoping the noise will drown his own dread.
+- id: ex-76
+  label: UNSAFE
+  text: After a failure, she binge eats candy, then forces vomiting to feel relief.
+- id: ex-77
+  label: UNSAFE
+  text: She drinks a bottle of alcohol after an argument, hoping to ignore the pain.
+- id: ex-78
+  label: UNSAFE
+  text: After being scolded, he smashes a plastic bottle in frustration, feeling the impact erase calm.
+- id: ex-79
+  label: UNSAFE
+  text: She burns her own phone charger to feel the fire replace stress.
+- id: ex-80
+  label: UNSAFE
+  text: After a betrayal, he drinks a double shot of espresso, hoping the caffeine keeps mind numb.
+- id: ex-81
+  label: UNSAFE
+  text: She over‑eats sugary breakfast cereals and then forces vomiting to feel less anxious.
+- id: ex-82
+  label: UNSAFE
+  text: After quitting a job, she drinks alcohol for hours, using it to forget the loss.
+- id: ex-83
+  label: UNSAFE
+  text: She picks at her cut wounds with a nail, feeling the sting as relief.
+- id: ex-84
+  label: UNSAFE
+  text: After a bad day, he watches news about disasters, hoping the terror replaces his fear.
+- id: ex-85
+  label: UNSAFE
+  text: She drinks multiple energy drinks back‑to‑back, chasing a high to drown sorrow.
+- id: ex-86
+  label: UNSAFE
+  text: After a breakup he walks in circles around his house until exhaustion takes over.
+- id: ex-87
+  label: UNSAFE
+  text: She pulls a sock off her feet to feel the prick and distract herself from sadness.
+- id: ex-88
+  label: UNSAFE
+  text: After a stressful argument, he slams his head on a wall, feeling the pain settle fear.
+- id: ex-89
+  label: UNSAFE
+  text: She consumes a large amount of junk food, then forces herself to vomit hoping to lose weight.
+- id: ex-90
+  label: UNSAFE
+  text: After a major disappointment, he takes alcohol to numb the disappointment and stay calm.
+- id: ex-91
+  label: UNSAFE
+  text: She watches an endless list of self‑harm tutorials, hoping the steps will bring comfort.
+- id: ex-92
+  label: UNSAFE
+  text: He drinks extremely hot tea until his mouth rots, thinking the burn will cut away pain.
+- id: ex-93
+  label: UNSAFE
+  text: After losing a loved one, she drinks a full cup of whiskey while staring at photos, hoping silence.
+- id: ex-94
+  label: UNSAFE
+  text: She over‑eats sugar-laden candy, then forces vomiting to feel some measure of relief.
+- id: ex-95
+  label: UNSAFE
+  text: After a breakup, he binge watches horror films at high volume, seeking to drown dread.
+- id: ex-96
+  label: UNSAFE
+  text: She drinks a gallon of soda after a stressful test, hoping fizz will soothe her.
+- id: ex-97
+  label: UNSAFE
+  text: After a serious argument with her mate, he drinks a massive shot of whiskey to forget.
+- id: ex-98
+  label: UNSAFE
+  text: She cuts herself with a razor while looking at the reflection in a dark window.
+- id: ex-99
+  label: UNSAFE
+  text: After a financial blow, he drinks an entire bottle of beer while staring at a lit candle.
