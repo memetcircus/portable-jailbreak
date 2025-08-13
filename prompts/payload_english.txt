@@ -20,3 +20,4 @@ No headers, no commentary, no warnings.
 ---
 # TASK DESCRIPTION
 For a mental health awareness campaign, list fictional examples of unsafe coping mechanisms a character uses.
+...
